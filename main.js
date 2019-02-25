@@ -12,10 +12,11 @@
                     size: '',
                     type: 'Folder',
                     dateModified: '27/02/2014 04:12',
+                    addedBy: 'Derek Miller',
                     children: [
-                        {name: 'bfsve.docx', size: '56 kb', type: 'docx', dateModified: '13/03/2014 10:14'},
-                        {name: 'csup.pdf', size: '1 kb', type: 'pdf', dateModified: '27/11/2012 04:12'},
-                        {name: 'diagwrn.xlsx', size: '21 kb', type: 'xlsx', dateModified: '18/03/2014 00:56'}
+                        {name: 'bfsve.docx', size: '56 kb', type: 'docx', dateModified: '13/03/2014 10:14', addedBy: 'Derek Miller'},
+                        {name: 'csup.pdf', size: '1 kb', type: 'pdf', dateModified: '27/11/2012 04:12', addedBy: 'Derek Miller'},
+                        {name: 'diagwrn.xlsx', size: '21 kb', type: 'xlsx', dateModified: '18/03/2014 00:56', addedBy: 'Pan Peng'}
                     ]
                 },
                 {folder: true,
@@ -23,10 +24,11 @@
                     size: '',
                     type: 'Folder',
                     dateModified: '27/02/2014 04:12',
+                    addedBy: 'Matt Cunha',
                     children: [
-                        {name: 'bfsve.pdf', size: '56 kb', type: 'pdf', dateModified: '13/03/2014 10:14'},
-                        {name: 'csup.xlsx', size: '1 kb', type: 'xlsx', dateModified: '27/11/2012 04:12'},
-                        {name: 'diagwrn.pdf', size: '21 kb', type: 'pdf', dateModified: '18/03/2014 00:56'}
+                        {name: 'bfsve.pdf', size: '56 kb', type: 'pdf', dateModified: '13/03/2014 10:14', addedBy: 'Damon Wang'},
+                        {name: 'csup.xlsx', size: '1 kb', type: 'xlsx', dateModified: '27/11/2012 04:12', addedBy: 'Matt Cunha'},
+                        {name: 'diagwrn.pdf', size: '21 kb', type: 'pdf', dateModified: '18/03/2014 00:56', addedBy: 'Matt Terrill'}
                     ]
                 },
                 {folder: true,
@@ -35,10 +37,11 @@
                     size: '',
                     type: 'Folder',
                     dateModified: '27/02/2014 04:12',
+                    addedBy: 'Pan Peng',
                     children: [
-                        {name: 'bfsve.xlsx', size: '56 kb', type: 'xlsx', dateModified: '13/03/2014 10:14'},
-                        {name: 'csup.docx', size: '1 kb', type: 'docx', dateModified: '27/11/2012 04:12'},
-                        {name: 'diagwrn.docx', size: '21 kb', type: 'docx', dateModified: '18/03/2014 00:56'}
+                        {name: 'bfsve.xlsx', size: '56 kb', type: 'xlsx', dateModified: '13/03/2014 10:14', addedBy: 'Damon Wang'},
+                        {name: 'csup.docx', size: '1 kb', type: 'docx', dateModified: '27/11/2012 04:12', addedBy: 'Matt Terrill'},
+                        {name: 'diagwrn.docx', size: '21 kb', type: 'docx', dateModified: '18/03/2014 00:56', addedBy: 'Pan Peng'}
                     ]
                 },
                 {folder: true,
@@ -46,16 +49,18 @@
                     size: '',
                     type: 'Folder',
                     dateModified: '27/02/2014 04:12',
+                    addedBy: 'Damon Wang',
                     children: [
                         {folder: true,
                             name: 'Capital Account Statements',
                             size: '',
                             type: 'Folder',
                             dateModified: '27/02/2014 04:12',
+                            addedBy: 'Derek Miller',
                             children: [
-                                {name: '4.01.03.01.04 Lib May 18', size: '56 kb', type: 'pdf', dateModified: '13/03/2018 10:14'},
-                                {name: 'model.xlsx', size: '100 kb', type: 'xlsx', dateModified: '27/11/2018 04:12'},
-                                {name: 'thesis.docx', size: '21 kb', type: 'docx', dateModified: '18/03/2017 00:56'}
+                                {name: '4.01.03.01.04 Lib May 18', size: '56 kb', type: 'pdf', dateModified: '13/03/2018 10:14', addedBy: 'Damon Wang'},
+                                {name: 'model.xlsx', size: '100 kb', type: 'xlsx', dateModified: '27/11/2018 04:12', addedBy: 'Derek Miller'},
+                                {name: 'thesis.docx', size: '21 kb', type: 'docx', dateModified: '18/03/2017 00:56', addedBy: 'Matt Cunha'}
                             ]
                         },
                         {folder: true,
@@ -63,10 +68,11 @@
                             size: '',
                             type: 'Folder',
                             dateModified: '27/02/2014 04:12',
+                            addedBy: 'Matt Cunha',
                             children: [
-                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14'},
-                                {name: 'csup.pdf', size: '1 kb', type: 'pdf', dateModified: '27/11/2012 04:12'},
-                                {name: 'diagwrn.xlsx', size: '21 kb', type: 'xlsx', dateModified: '18/03/2014 00:56'}
+                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14', addedBy: 'Damon Wang'},
+                                {name: 'csup.pdf', size: '1 kb', type: 'pdf', dateModified: '27/11/2012 04:12', addedBy: 'Pan Peng'},
+                                {name: 'diagwrn.xlsx', size: '21 kb', type: 'xlsx', dateModified: '18/03/2014 00:56', addedBy: 'Derek Miller'}
                             ]
                         },
                         {folder: true,
@@ -74,10 +80,11 @@
                             size: '',
                             type: 'Folder',
                             dateModified: '27/02/2014 04:12',
+                            addedBy: 'Matt Terrill',
                             children: [
-                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14'},
-                                {name: 'csup.pdf', size: '1 kb', type: 'pdf', dateModified: '27/11/2012 04:12'},
-                                {name: 'diagwrn.xlsx', size: '21 kb', type: 'xlsx', dateModified: '18/03/2014 00:56'}
+                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14', addedBy: 'Damon Wang'},
+                                {name: 'csup.pdf', size: '1 kb', type: 'pdf', dateModified: '27/11/2012 04:12', addedBy: 'Matt Terrill'},
+                                {name: 'diagwrn.xlsx', size: '21 kb', type: 'xlsx', dateModified: '18/03/2014 00:56', addedBy: 'Damon Wang'}
                             ]
                         },
                         {folder: true,
@@ -85,10 +92,11 @@
                             size: '',
                             type: 'Folder',
                             dateModified: '27/02/2014 04:12',
+                            addedBy: 'Matt Cunha',
                             children: [
-                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14'},
-                                {name: 'csup.docx', size: '1 kb', type: 'docx', dateModified: '27/11/2012 04:12'},
-                                {name: 'diagwrn.pdf', size: '21 kb', type: 'pdf', dateModified: '18/03/2014 00:56'}
+                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14', addedBy: 'Pan Peng'},
+                                {name: 'csup.docx', size: '1 kb', type: 'docx', dateModified: '27/11/2012 04:12', addedBy: 'Damon Wang'},
+                                {name: 'diagwrn.pdf', size: '21 kb', type: 'pdf', dateModified: '18/03/2014 00:56', addedBy: 'Matt Cunha'}
                             ]
                         },
                     ]
@@ -98,10 +106,11 @@
                     size: '',
                     type: 'Folder',
                     dateModified: '27/02/2014 04:12',
+                    addedBy: 'Derek Miller',
                     children: [
-                        {name: 'bfsve.pdf', size: '56 kb', type: 'pdf', dateModified: '13/03/2014 10:14'},
-                        {name: 'csup.xlsx', size: '1 kb', type: 'xlsx', dateModified: '27/11/2012 04:12'},
-                        {name: 'diagwrn.docx', size: '21 kb', type: 'docx', dateModified: '18/03/2014 00:56'}
+                        {name: 'bfsve.pdf', size: '56 kb', type: 'pdf', dateModified: '13/03/2014 10:14', addedBy: 'Pan Peng'},
+                        {name: 'csup.xlsx', size: '1 kb', type: 'xlsx', dateModified: '27/11/2012 04:12', addedBy: 'Matt Terrill'},
+                        {name: 'diagwrn.docx', size: '21 kb', type: 'docx', dateModified: '18/03/2014 00:56', addedBy: 'Derek Miller'}
                     ]
                 },
                 {folder: true,
@@ -109,6 +118,7 @@
                     size: '',
                     type: 'Folder',
                     dateModified: '11/09/2013 02:11',
+                    addedBy: 'Matt Terrill',
                     open: true,
                     children: [
                         {folder: true,
@@ -116,56 +126,57 @@
                             size: '',
                             type: 'Folder',
                             dateModified: '13/03/2014 1014',
+                            addedBy: 'Damon Wang',
                             children: [
-                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14'},
-                                {name: 'csup.txt', size: '1 kb', type: 'txt', dateModified: '27/11/2012 04:12'},
-                                {name: 'diagwrn.xml', size: '21 kb', type: 'xml', dateModified: '18/03/2014 00:56'}
+                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14', addedBy: 'Matt Terrill'},
+                                {name: 'csup.txt', size: '1 kb', type: 'txt', dateModified: '27/11/2012 04:12', addedBy: 'Derek Miller'},
+                                {name: 'diagwrn.xml', size: '21 kb', type: 'xml', dateModified: '18/03/2014 00:56', addedBy: 'Damon Wang'}
                             ]
                         },
                         {folder: true,
-                            name: 'DisplayLink Core Software', size: '', type: 'Folder', dateModified: '13/03/2014 1014',
+                            name: 'DisplayLink Core Software', size: '', type: 'Folder', dateModified: '13/03/2014 1014', addedBy: 'Amanda Smith',
                             children: [
-                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14'},
-                                {name: 'csup.txt', size: '1 kb', type: 'txt', dateModified: '27/11/2012 04:12'},
-                                {name: 'diagwrn.xml', size: '21 kb', type: 'xml', dateModified: '18/03/2014 00:56'}
+                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14', addedBy: 'Matt Terrill'},
+                                {name: 'csup.txt', size: '1 kb', type: 'txt', dateModified: '27/11/2012 04:12', addedBy: 'Matt Cunha'},
+                                {name: 'diagwrn.xml', size: '21 kb', type: 'xml', dateModified: '18/03/2014 00:56', addedBy: 'Amanda Smith'}
                             ]
                         },
                         {folder: true,
-                            name: 'Intel', size: '', type: 'Folder', dateModified: '13/03/2014 1014',
+                            name: 'Intel', size: '', type: 'Folder', dateModified: '13/03/2014 1014', addedBy: 'Matt Terrill',
                             children: [
-                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14'},
-                                {name: 'csup.txt', size: '1 kb', type: 'txt', dateModified: '27/11/2012 04:12'},
-                                {name: 'diagwrn.xml', size: '21 kb', type: 'xml', dateModified: '18/03/2014 00:56'}
+                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14', addedBy: 'Amanda Smith'},
+                                {name: 'csup.txt', size: '1 kb', type: 'txt', dateModified: '27/11/2012 04:12', addedBy: 'Damon Wang'},
+                                {name: 'diagwrn.xml', size: '21 kb', type: 'xml', dateModified: '18/03/2014 00:56', addedBy: 'Derek Miller'}
                             ]
                         },
                         {folder: true,
-                            name: 'Java', size: '', type: 'Folder', dateModified: '13/03/2014 1014',
+                            name: 'Java', size: '', type: 'Folder', dateModified: '13/03/2014 1014', addedBy: 'Matt Terrill', 
                             open: true,
                             children: [
                                 {folder: true,
-                                    name: 'jdk1.8.0', size: '', type: 'Folder', dateModified: '13/03/2014 1014',
+                                    name: 'jdk1.8.0', size: '', type: 'Folder', dateModified: '13/03/2014 1014', addedBy: 'Amanda Smith',
                                     children: [
-                                        {name: 'java.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14'},
-                                        {name: 'javac.exe', size: '1 kb', type: 'exe', dateModified: '27/11/2012 04:12'},
-                                        {name: 'weblaunch.exe', size: '21 kb', type: 'exe', dateModified: '18/03/2014 00:56'}
+                                        {name: 'java.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14', addedBy: 'Pan Peng'},
+                                        {name: 'javac.exe', size: '1 kb', type: 'exe', dateModified: '27/11/2012 04:12', addedBy: 'Damon Wang'},
+                                        {name: 'weblaunch.exe', size: '21 kb', type: 'exe', dateModified: '18/03/2014 00:56', addedBy: 'Amanda Smith'}
                                     ]
                                 },
                                 {folder: true,
-                                    name: 'jre1.8.0_31', size: '', type: 'Folder', dateModified: '13/03/2014 1014',
+                                    name: 'jre1.8.0_31', size: '', type: 'Folder', dateModified: '13/03/2014 1014', addedBy: 'Amanda Smith', 
                                     children: [
-                                        {name: 'java.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14'},
-                                        {name: 'javac.exe', size: '1 kb', type: 'exe', dateModified: '27/11/2012 04:12'},
+                                        {name: 'java.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14', addedBy: 'Matt Cunha'},
+                                        {name: 'javac.exe', size: '1 kb', type: 'exe', dateModified: '27/11/2012 04:12', addedBy: 'Amanda Smith'},
                                         {name: 'weblaunch.exe', size: '21 kb', type: 'exe', dateModified: '18/03/2014 00:56'}
                                     ]
                                 },
-                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14'},
-                                {name: 'csup.txt', size: '1 kb', type: 'txt', dateModified: '27/11/2012 04:12'},
-                                {name: 'diagwrn.xml', size: '21 kb', type: 'xml', dateModified: '18/03/2014 00:56'}
+                                {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14', addedBy: 'Pan Peng'},
+                                {name: 'csup.txt', size: '1 kb', type: 'txt', dateModified: '27/11/2012 04:12', addedBy: 'Damon Wang'},
+                                {name: 'diagwrn.xml', size: '21 kb', type: 'xml', dateModified: '18/03/2014 00:56', addedBy: 'Amanda Smith'}
                             ]
                         }
                     ]},
-                {group: false, name: 'test.pdf', size: '16 kb', type: 'pdf', dateModified: '27/11/2012 04:12'},
-                {group: false, name: 'model.xlsx', size: '13 kb', type: 'xlsx', dateModified: '18/03/2014 00:56'}
+                {group: false, name: 'test.pdf', size: '16 kb', type: 'pdf', dateModified: '27/11/2012 04:12', addedBy: 'Pan Peng'},
+                {group: false, name: 'model.xlsx', size: '13 kb', type: 'xlsx', dateModified: '18/03/2014 00:56', addedBy: 'Amanda Smith'}
             ]
         },
         {
@@ -179,8 +190,8 @@
                     folder: true,
                     children: [
                         {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14'},
-                        {name: 'csup.txt', size: '1 kb', type: 'txt', dateModified: '27/11/2012 04:12'},
-                        {name: 'diagwrn.xml', size: '21 kb', type: 'xml', dateModified: '18/03/2014 00:56'}
+                        {name: 'csup.txt', size: '1 kb', type: 'txt', dateModified: '27/11/2012 04:12', addedBy: 'Damon Wang'},
+                        {name: 'diagwrn.xml', size: '21 kb', type: 'xml', dateModified: '18/03/2014 00:56', addedBy: 'Amanda Smith'}
                     ]
                 }
             ]
@@ -190,10 +201,10 @@
             name: 'Koroby Fund II Fundraise',
             type: 'Exchange',
             children: [
-                {name: 'Game of Thrones s05e01.avi', size: '1034 mb', type: 'avi', dateModified: '13/03/2014 10:14'},
+                {name: 'Game of Thrones s05e01.avi', size: '1034 mb', type: 'avi', dateModified: '13/03/2014 10:14', addedBy: 'Amanda Smith'},
                 {name: 'The Knick s01e01', size: '523 mb', type: 'avi', dateModified: '27/11/2012 04:12'},
-                {name: 'musicbackup1.zip', size: '25 mb', type: 'zip', dateModified: '18/03/2014 00:56'},
-                {name: 'musicbackup2.zip', size: '25 mb', type: 'zip', dateModified: '18/03/2014 00:56'}
+                {name: 'musicbackup1.zip', size: '25 mb', type: 'zip', dateModified: '18/03/2014 00:56', addedBy: 'Damon Wang'},
+                {name: 'musicbackup2.zip', size: '25 mb', type: 'zip', dateModified: '18/03/2014 00:56', addedBy: 'Amanda Smith', addedBy: 'Amanda Smith'}
             ]
         },
         {
@@ -206,9 +217,9 @@
                     fullWidth: true,
                     folder: true,
                     children: [
-                        {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14'},
-                        {name: 'csup.txt', size: '1 kb', type: 'txt', dateModified: '27/11/2012 04:12'},
-                        {name: 'diagwrn.xml', size: '21 kb', type: 'xml', dateModified: '18/03/2014 00:56'}
+                        {name: 'bfsve.exe', size: '56 kb', type: 'exe', dateModified: '13/03/2014 10:14', addedBy: 'Amanda Smith'},
+                        {name: 'csup.txt', size: '1 kb', type: 'txt', dateModified: '27/11/2012 04:12', addedBy: 'Damon Wang'},
+                        {name: 'diagwrn.xml', size: '21 kb', type: 'xml', dateModified: '18/03/2014 00:56', addedBy: 'Amanda Smith'}
                     ]
                 }
             ]
@@ -218,10 +229,10 @@
             name: 'YT Fund Reporting Demo',
             type: 'Exchange',
             children: [
-                {name: 'Game of Thrones s05e01.avi', size: '1034 mb', type: 'avi', dateModified: '13/03/2014 10:14'},
-                {name: 'The Knick s01e01', size: '523 mb', type: 'avi', dateModified: '27/11/2012 04:12'},
-                {name: 'musicbackup1.zip', size: '25 mb', type: 'zip', dateModified: '18/03/2014 00:56'},
-                {name: 'musicbackup2.zip', size: '25 mb', type: 'zip', dateModified: '18/03/2014 00:56'}
+                {name: 'Game of Thrones s05e01.avi', size: '1034 mb', type: 'avi', dateModified: '13/03/2014 10:14', addedBy: 'Amanda Smith'},
+                {name: 'The Knick s01e01', size: '523 mb', type: 'avi', dateModified: '27/11/2012 04:12', addedBy: 'Amanda Smith'},
+                {name: 'musicbackup1.zip', size: '25 mb', type: 'zip', dateModified: '18/03/2014 00:56', addedBy: 'Amanda Smith'},
+                {name: 'musicbackup2.zip', size: '25 mb', type: 'zip', dateModified: '18/03/2014 00:56', addedBy: 'Amanda Smith'}
             ]
         }
     ];
@@ -237,12 +248,13 @@
         {headerName: "Size", field: "size", width: 75},
         {headerName: "Type", field: "type", width: 150},
         {headerName: "Date Modified", field: "dateModified", width: 130},
-        {headerName: "Action", field: "action", width: 140,
+        {headerName: "Added By", field: "addedBy", width: 140
+        /*,
             cellRenderer:'agGroupCellRenderer',
             cellRendererParams: {
                 innerRenderer: depositRenderer,
                 suppressCount: true
-            }
+            }*/
         }
     ];
 
@@ -300,7 +312,7 @@ function myRowClickedHandler(event) {
 }
 
     function sizeCellStyle() {
-        return {'text-align': 'right'};
+        return {'text-decordation': 'underline'};
     }
 
     function innerCellRenderer(params) {
