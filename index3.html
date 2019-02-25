@@ -1,0 +1,220 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="test.css">
+    <style>
+        #container {
+		    background-color: #2a3d53;
+		    background-repeat: no-repeat;
+		    background-position: center center;
+		    background-size: cover;
+		    justify-content: flex-end;
+		    display: flex;
+		    position: fixed;
+		    top: 0;
+		    bottom: 0;
+		    right: 0;
+		    left: 0;
+		}
+	</style>
+    <style>
+        .app-container[_ngcontent-c0] {
+	    bottom: 0;
+	    left: 0;
+	    position: fixed;
+	    right: 0;
+	    top: 0
+	}
+
+	.app-container[_ngcontent-c0] .copy-area[_ngcontent-c0] {
+	    position: fixed;
+	    left: -1000px;
+	    top: -1000px;
+	    opacity: 0;
+	    z-index: -1000
+	}
+	</style>
+    <style>
+        .container[_ngcontent-c1] {
+	    align-items: right;
+	    background-image: url(bg.6f3e929e2d93703f0f5e.jpeg);
+	    background-repeat: no-repeat;
+	    background-position: center center;
+	    background-size: cover;
+	    justify-content: center;
+	    display: flex;
+	    position: fixed;
+	    top: 0;
+	    bottom: 0;
+	    right: 0;
+	    left: 0
+	}
+	</style>
+    <style>
+        .container[_ngcontent-c2] {
+	    background-color: #2a3d53;
+	    height: auto;
+	    padding: 30px 32px 0px 32px;
+	    position: relative;
+	    width: 300px;
+	}
+
+	.container[_ngcontent-c2] .alert-message[_ngcontent-c2] {
+	    align-items: center;
+	    color: #fff;
+	    height: 56px;
+	    justify-content: center;
+	    left: 0;
+	    padding: 10px 20px 10px 16px;
+	    position: absolute;
+	    right: 0;
+	    text-align: center;
+	    top: 0;
+	    display: none
+	}
+
+	.container[_ngcontent-c2] .alert-message[_ngcontent-c2] .message-text[_ngcontent-c2] {
+	    width: auto;
+	    height: auto;
+	    font-size: 14px;
+	    color: #fff;
+	    text-align: start;
+	    -webkit-font-smoothing: antialiased
+	}
+
+	.container[_ngcontent-c2] .alert-message.success[_ngcontent-c2] {
+	    background-color: #48a651;
+	    display: flex
+	}
+
+	.container[_ngcontent-c2] .alert-message.fail[_ngcontent-c2] {
+	    background-color: #f53249;
+	    display: flex
+	}
+
+	.container[_ngcontent-c2] .logo[_ngcontent-c2] {
+	    color: #fff;
+	    margin: 0 auto;
+	    width: 160px;
+	    height: 40px
+	}
+
+	.container[_ngcontent-c2] .logo[_ngcontent-c2] .application-name[_ngcontent-c2] {
+	    font-family: SourceSansPro-Light;
+	    font-size: 16px;
+	    font-weight: 300;
+	    letter-spacing: 1.6px;
+	    text-align: center;
+	    margin: 10px 29.5px;
+	    width: 101px;
+	    height: 20px
+	}
+
+	.container[_ngcontent-c2] .input-form[_ngcontent-c2] {
+	    margin:50px 2px auto
+	}
+
+	.container[_ngcontent-c2] .input-form[_ngcontent-c2] .title[_ngcontent-c2] {
+	    color: #fff;
+	    margin-bottom: 12px;
+	    width: 76px;
+	    height: 38px;
+	    font-family: SourceSansPro-Regular;
+	    font-size: 30px;
+	    white-space: nowrap
+	}
+
+	.container[_ngcontent-c2] .input-form[_ngcontent-c2] input.login-form-control[_ngcontent-c2] {
+	    font-size: 14px;
+	    height: 40px;
+	    padding: 18px 16px;
+	    width: 100%;
+	    margin-bottom: 16px;
+	    font-family: 'SourceSansPro-Regular';
+	}
+
+	.container[_ngcontent-c2] .input-form[_ngcontent-c2] input[_ngcontent-c2]::-webkit-input-placeholder {
+	    color: rgba(0, 0, 0, .45);
+	    letter-spacing: .4px
+	}
+
+	.container[_ngcontent-c2] .input-form[_ngcontent-c2] input[_ngcontent-c2]:-ms-input-placeholder {
+	    color: rgba(0, 0, 0, .45);
+	    letter-spacing: .4px
+	}
+
+	.container[_ngcontent-c2] .input-form[_ngcontent-c2] input[_ngcontent-c2]::-ms-input-placeholder {
+	    color: rgba(0, 0, 0, .45);
+	    letter-spacing: .4px
+	}
+
+	.container[_ngcontent-c2] .input-form[_ngcontent-c2] input[_ngcontent-c2]::placeholder {
+	    color: rgba(0, 0, 0, .45);
+	    letter-spacing: .4px
+	}
+
+	.container[_ngcontent-c2] .input-form[_ngcontent-c2] .login-button[_ngcontent-c2] {
+	    background-color: #307fe2;
+	    border: 1px solid #307fe2;
+	    border-radius: 0;
+	    color: #fff;
+	    cursor: pointer;
+	    font-size: 14px;
+	    height: 40px;
+	    margin-top: 0px;
+	    width: 100%;
+	    letter-spacing: 1.6px;
+	    font-family: 'SourceSansPro-Regular';
+	}
+
+	.container[_ngcontent-c2] .input-form[_ngcontent-c2] .login-button.tam-btn[_ngcontent-c2] .tam-btn-loading[_ngcontent-c2] {
+    border-radius: 0
+}
+
+.container[_ngcontent-c2] .input-form[_ngcontent-c2] .login-button[_ngcontent-c2]>span[_ngcontent-c2] {
+    width: 54px;
+    height: 20px;
+    font-family: SourceSansPro-Light
+}
+
+.container[_ngcontent-c2] .contact-support-container[_ngcontent-c2] {
+    font-size: 12px;
+    padding: 32px 2px;
+    width: 100%
+}
+
+.container[_ngcontent-c2] .contact-support-container[_ngcontent-c2] .login-trouble-label[_ngcontent-c2] {
+    float: right;
+    text-align: right;
+    height: 15px;
+    font-size: 12px;
+    color: #fff
+}
+</style>
+    <style></style>
+</head>
+
+<body>
+    <div id="container">
+    	<div style="margin: 80px 0px; width: 50%;">
+    		<div style="width:64px; margin:auto;">
+    			<img src='locked.png'>
+    		</div>
+    		<h3 style="text-align:center; color:white; padding: 0 30px; font-family: 'Source Sans Pro'; font-weight: 300;">These files are protected.</h3>
+			<h3 style="text-align:center; color:white; padding: 0 30px; font-family: 'Source Sans Pro'; font-weight: 300; font-size: 14px;">Please enter your username and password to the right.</h3>
+    	</div>
+        <div _ngcontent-c2="" class="container">
+            <div _ngcontent-c2="" class="logo"><embed _ngcontent-c2="" alt="SS&amp;C | ADVENT" src="logo.svg">
+                <div _ngcontent-c2="" class="application-name">TAMALE RMS</div>
+            </div>
+            <div _ngcontent-c2="" class="input-form">
+                <form _ngcontent-c2="" novalidate="" class="ng-untouched ng-pristine ng-invalid">
+                    <input _ngcontent-c2="" autocapitalize="none" autocomplete="off" autocorrect="off" autofocus="" class="login-form-control ng-untouched ng-pristine ng-invalid" name="name" placeholder="Username" required="" type="text"><input _ngcontent-c2="" class="login-form-control ng-untouched ng-pristine ng-invalid" name="password" placeholder="Password" required="" type="password"><button _ngcontent-c2="" class="login-button tam-btn tam-btn-primary tam-btn-lg" tam-button="" _nghost-c3="">
+                        <!----><span _ngcontent-c3="">LOG IN</span></button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

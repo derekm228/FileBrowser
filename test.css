@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Tamale RMS</title>
+    <base href="/tamaleweb/">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <style>
+        .app-loading {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+        }
+    </style>
+<link rel="stylesheet" href="styles.359d1d9e46cf71cfe295.css"></head>
+
+<body>
+    <tam-root>
+        <div class="app-loading">
+            <h1>Tamale RMS is loading...</h1>
+        </div>
+    </tam-root>
+<script type="text/javascript" src="runtime.fc0587b35e70dcc78a69.js"></script><script type="text/javascript" src="polyfills.4788f22b941120e1fda2.js"></script><script type="text/javascript" src="scripts.7dc20ca29d0eaaa46985.js"></script><script type="text/javascript" src="vendor.27a442af8499d79c5dc8.js"></script><script type="text/javascript" src="main.661a0cb1ca03b36acdc7.js"></script></body>
+
+</html>
